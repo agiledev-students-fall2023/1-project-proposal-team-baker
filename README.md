@@ -28,15 +28,18 @@
 ### Scope
 
 
-## **Proposal 3: Personal Spending Tracker SSN**
+## **Proposal 3: Personal Spending Tracker SNS**
 
 ### What and why?
-
+A personalized spending tracker app via a social community platform
+Builds a community that allows people to share their spending goals and tips.
+Set interactive goals and objectives for users to achieve
 ### For whom?
-
+People who are interested in setting budgets but are lazy
 ### How?
-
+React.js, node.js, AWS.
 ### Scope
+
 
 
 ## **Proposal 4: Insurance and Medical Map**

@@ -117,3 +117,21 @@ Our app has a clear mission: to dismantle the information cocoon. We are committ
 
 ### Scope
 - The system need to grab information from websites or from existing database to deliver information for users. We might also need a censorship algo for content that users give
+
+## **Proposal 6: Online Pet Community**
+
+### What and why?
+- Connect people in the dog park (when two users put their phones together, they become friends on this app)
+- Open forum showcasing all kinds of cute pets and short videos to attract people without pets. Discuss about common pet problems.
+- Online map showing the nearby pet clinic and dog parks
+- Online shopping mall to buy pet food.
+
+### For whom?
+- people who currently have cats/dogs
+- people without pets but are willing to see more pet pics.
+
+### How?
+The user can become friends, buy pet food, look for answers for common pet problems, and other pet resources.
+
+### Scope
+The workload for these functionalities is feasible for a group of 5 members, each member can choose one feature to develop.

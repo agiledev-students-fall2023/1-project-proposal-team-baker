@@ -1,3 +1,10 @@
+### Group Members:
+- Charlotte Ma
+- Lesley Zhao
+- Qiwen (Nina) Xiao
+- Richard Lee
+- Tracy Zhang
+  
 # Project Proposal
 Delete the contents of this file and replace with your project proposal, as described in the [instructions](./instructions.md)
 

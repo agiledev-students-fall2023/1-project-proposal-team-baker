@@ -46,19 +46,18 @@ This app targets students in highschool and higher, who has a complicated schedu
 ### Scope
 Considering the project’s multiple features, it is challenging for a group of 4-6 to complete within the semester.
 
-
 ## **Proposal 2: GoodOldMap**
 
 ### What and why?
-This is an interactive map changing upon the user’s time set before modern time. Upon clicking on parts of the map, the application will display an image of the artwork and a soundtrack specific to the location and time. The user can click on the display to learn more about artworks and compositions in a specific space and time. The project collects information online to build a random yet concise sense of art and music.
+This is an engaging and educational map application. This application will allow users to explore random artwork and music in different historical time periods and regions across Europe. The user can select a year in the history, and the map will display corresponding geometric features at that time. When the user click on some location, the application will collect information online and display a random image of artwork and a soundtrack specific to the year and location. In this way, the uesr can gain a more comprehensive understanding of artworks and compositions relative to countries, time periods, and historical details.
 
 ### For whom?
-This application is for children and teenagers who are curious to learn about art and culture. It provides geometric details for a more comprehensive understanding of space and cultural works.
+This application is for children and teenagers who are curious to learn about art and culture. The user can explore different art and music of different regions and time periods, building a more comprehensive undertanding of art and cultural with a geometric understanding.
 
 ### How?
-- The user will be able to adjust the time zone for the map based on the unit of the year
-- When clicking a portion of the map, the user will see a popup of random artwork and hear a random composition specific to the city (or country) and time. 
-- When the user clicks on the popup, he/she will find a detailed explanation of the artwork and the composition. He/she will also find roughly 10 related works completed at this time and location.
+- The user will be able to adjust the time zone for the map based on the unit of the year. The map will show the boundaries of countires, cities, and general time periods like "The Renaissance."
+- When clicking a point of the map, the user will see a popup window that shows random artwork and hear a random composition specific to the location and time.
+- When the user clicks on the popup, he/she will find a detailed explanation of the artwork and the composition. He/she will also find roughly 10 related works completed at this time and location. He/she will be able to learn more about them by clicking on each.
 
 ### Scope
 This project requires percise map building technology and web scraping skill. With instruction, a group of 4-6 is able to complete it in the semester.

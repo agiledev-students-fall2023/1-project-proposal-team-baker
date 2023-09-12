@@ -116,4 +116,4 @@ Our app has a clear mission: to dismantle the information cocoon. We are committ
 - Much like BeReal, our app allows users to connect with friends within the platform, but it eschews traditional chat features. People could see interactions for a post from friends only to avoid additional comment censorship. Instead, we emphasize the importance of content and knowledge exchange as the primary means of interaction, promoting meaningful connections based on shared interests and curiosity.
 
 ### Scope
-- The system need to grab information from websites or from existing database to deliver information for users. We might also need a censorship algo for co
+- The system need to grab information from websites or from existing database to deliver information for users. We might also need a censorship algo for content that users give

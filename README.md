@@ -40,18 +40,18 @@ Delete the contents of this file and replace with your project proposal, as desc
 ### What and why?
 - showing the urgent care
 - w/ indicating if the insurance cover
-- general education
+- general education for international students or immigrants, ex: how the users going to pay bills
 - online chat w/ doctor
-- educating how the users going to pay bills
 - with live community chat
 
 ### For whom?
-- "fresh out the boat"
+- international students or newcomers to this area.
 
 ### How?
+The user can search for the nearest hosiptal that their insurance can cover, ask questions about how to use insurance and handle unexpected bills, and communicate with medical staff about their symptoms and treatments.
 
 ### Scope
-
+The workload for these functionalities is feasible for a group of 5 members, each member can choose one feature to develop.
 
 ## **Proposal 5: Normal Life Switch**
 

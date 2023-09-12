@@ -70,14 +70,3 @@ The workload for these functionalities is feasible for a group of 5 members, eac
 
 ### Scope
 
-
-## **Proposal 6: Online Second Hand Trading Platform**
-
-### What and why?
-- Current second hand selling process is redundant, and it is really hard to cross compare the product price
-
-### For whom?
-- people who want to
-### How?
-
-### Scope

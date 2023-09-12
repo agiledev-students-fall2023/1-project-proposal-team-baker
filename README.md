@@ -47,16 +47,21 @@ This app targets students in highschool and higher, who has a complicated schedu
 Considering the project’s multiple features, it is challenging for a group of 4-6 to complete within the semester.
 
 
-## **Proposal 2: Interactive Timelagged Map w/ Sounding Music and Vibe**
+## **Proposal 2: GoodOldMap**
 
 ### What and why?
+This is an interactive map changing upon the user’s time set before modern time. Upon clicking on parts of the map, the application will display an image of the artwork and a soundtrack specific to the location and time. The user can click on the display to learn more about artworks and compositions in a specific space and time. The project collects information online to build a random yet concise sense of art and music.
 
 ### For whom?
+This application is for children and teenagers who are curious to learn about art and culture. It provides geometric details for a more comprehensive understanding of space and cultural works.
 
 ### How?
+- The user will be able to adjust the time zone for the map based on the unit of the year
+- When clicking a portion of the map, the user will see a popup of random artwork and hear a random composition specific to the city (or country) and time. 
+- When the user clicks on the popup, he/she will find a detailed explanation of the artwork and the composition. He/she will also find roughly 10 related works completed at this time and location.
 
 ### Scope
-
+This project requires percise map building technology and web scraping skill. With instruction, a group of 4-6 is able to complete it in the semester.
 
 ## **Proposal 3: Personal Spending Tracker SNS**
 
